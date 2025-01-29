@@ -3,7 +3,6 @@
 
 The Laravel Real-Time Chat API is a backend solution built with Laravel, designed to enable real-time messaging functionalities for applications. This API supports features such as instant message delivery, user presence tracking, and message history, providing a robust and scalable chat experience. It can be easily integrated into any frontend framework to deliver a seamless chat interface.
 
-```
 ## Key Features
 
 ###Real-Time Messaging:
